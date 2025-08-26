@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Piotr 👋
+
+I work at [Harvest] as [Senior Software Engineer]. My spare time I nowadays
+mostly spend on [GameDev], photography and tennis 🎾.
+
+![image](https://live.staticflickr.com/1739/42621394851_14c972e585_k.jpg)
+
+[Harvest]: https://www.getharvest.com
+[GameDev]: https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake
+[Senior Software Engineer]: https://www.linkedin.com/in/pusewicz/
 
 <!--
 **pusewicz/pusewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
