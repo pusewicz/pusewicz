@@ -1,6 +1,6 @@
 ## Hi there, I'm Piotr 👋
 
-I work at [Harvest] as [Senior Software Engineer]. My spare time I nowadays
+I build web applications in Ruby on Rails. My spare time I nowadays
 mostly spend on [GameDev], photography and tennis 🎾.
 
 I've been working with [Ruby] and Ruby on Rails since 2006, which is a relatively long time.
